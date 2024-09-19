@@ -1,0 +1,6 @@
+file = open('a.txt', 'r')
+print(file.read())
+file = open('b.txt', 'r')
+print(file.read())
+file = open('c.txt', 'r')
+print(file.read())
